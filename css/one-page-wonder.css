@@ -27,7 +27,13 @@ body {
     padding: 10px 0;
     background: #fefeff;
 }
-
+h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 120px;
+    font-weight: bold;
+    color: #879eb7;
+    background: #fff;
+}
 .headline h1 {
     font-family: 'PT Sans', sans-serif;
     font-size: 20px;
